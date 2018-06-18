@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="rupee_symbol">\u20B9</string>
+
+    <!--Fonts-->
+    <string name="font_sans_serif_condensed">sans-serif-condensed</string>
+</resources>
