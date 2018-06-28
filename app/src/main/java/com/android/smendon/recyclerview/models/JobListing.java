@@ -1,7 +1,7 @@
 package com.android.smendon.recyclerview.models;
 
 /**
- * Created by a619046 on 30-05-2018.
+ * Created by Sanket Mendon on 30-05-2018.
  */
 
 public class JobListing {

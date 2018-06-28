@@ -18,6 +18,10 @@ import com.android.smendon.recyclerview.models.JobListing;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Created by Sanket Mendon on 30-05-2018.
+ */
+
 public class RecyclerViewActivity extends AppCompatActivity {
     private RecyclerView mRecyclerView;
     private RecyclerView.Adapter mAdapter;

@@ -13,7 +13,7 @@ import com.android.smendon.recyclerview.models.JobListing;
 import java.util.List;
 
 /**
- * Created by a619046 on 18-06-2018.
+ * Created by Sanket Mendon on 30-05-2018.
  */
 
 public class AdapterJobListings extends RecyclerView.Adapter<AdapterJobListings.ViewHolder> {
